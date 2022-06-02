@@ -4,13 +4,12 @@
 
 🌱 I’m currently learning HTML, CSS, Javascript and ReactJS
 
+
 📫 How to reach me: 
 
 📝 My Website ... in process :D 
 ✔️ LinkedIn:  https://www.linkedin.com/in/bogdan-muntean-ro/
-
 🐦 Twitter:   https://twitter.com/BogdanMuntean_
-
 📧 E-mail:    bm.bogdanmuntean@gmail.com
 
 <!--
