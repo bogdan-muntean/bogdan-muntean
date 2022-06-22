@@ -2,13 +2,13 @@
 
 🔭 I’m currently working on Personal Portofolio
 
-🌱 I’m currently learning HTML, CSS, Javascript and ReactJS
+🌱 I’m currently learning ReactJS
 
 -------                                               -------
 
 📫 How to reach me: 
 
-📝 My Website https://bogdan-muntean.github.io/  ... in process :D 
+📝 My Website https://bogdan-muntean.github.io/  
 
 ✔️ LinkedIn:  https://www.linkedin.com/in/bogdan-muntean-ro/
 
