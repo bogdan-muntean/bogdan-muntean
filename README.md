@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-🔭 I’m currently working on Personal Portofolio
-
-🌱 I’m currently learning ReactJS
-
 -------                                               -------
 
 📫 How to reach me: 
